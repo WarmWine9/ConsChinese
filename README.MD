@@ -4,6 +4,7 @@
 1. 官网下载Autohotkey
 2. 下载ConsChinese.ahk
 3. 双击并允许
+
 **如果需要开机启动**
 4. Win+R打开“运行”
 5. 输入“shell:startup”
@@ -20,6 +21,7 @@ Releases中的ConsChinese.exe与ConsChinese.ahk相同。如果不想下载Autoho
 1. Download Autohotkey from the official website.
 2. Download ConsChinese.ahk.
 3. Double-click and allow.
+
 **If you need to start up with the computer:**
 4. Press Win+R to open "Run".
 5. Enter "shell:startup".
