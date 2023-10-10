@@ -10,8 +10,9 @@
 6. 将ConsChinese.ahk拖入文件夹
 
 
-**release中的ConsChinese.exe与ConsChinese.ahk相同。如果不想下载Autohotkey且信任开发者，可以直接下载ConsChinese.exe,双击即可运行。开机启动方式与上文中提提到的相同.
+**release中的ConsChinese.exe与ConsChinese.ahk相同。如果不想下载Autohotkey且信任开发者，可以直接下载ConsChinese.exe,双击即可运行。开机启动方式与上文中提到的相同.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project is a script file based on Autohotkey, aimed at preventing Microsoft Pinyin input method from switching from Chinese to English.
 
