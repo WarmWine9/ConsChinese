@@ -5,7 +5,7 @@
 2. 下载ConsChinese.ahk
 3. 双击并允许
 
-**如果需要开机启动: **
+__如果需要开机启动:__
 1. Win+R打开“运行”
 2. 输入“shell:startup”
 3. 将ConsChinese.ahk拖入文件夹
@@ -22,7 +22,7 @@ Releases中的ConsChinese.exe与ConsChinese.ahk相同。如果不想下载Autoho
 2. Download ConsChinese.ahk.
 3. Double-click and allow.
 
-**If you need to start up with the computer: **
+__If you need to start up with the computer:__
 1. Press Win+R to open "Run".
 2. Enter "shell:startup".
 3. Drag and drop ConsChinese.ahk into the folder.
